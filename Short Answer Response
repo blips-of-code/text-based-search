@@ -1,0 +1,1 @@
+I think Alhea was chosen for this assignment because it may have less complex security measures (HTTP instead of HTTPS) or rate limiting compared to larger search engines, allowing for simpler interactions via socket programming.
